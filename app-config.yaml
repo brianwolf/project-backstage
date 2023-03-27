@@ -100,6 +100,9 @@ catalog:
     - type: file
       target: ../../examples/entities.yaml
 
+    - type: file
+      target: ../../catalog-info.yaml
+
     # Local example template
     - type: file
       target: ../../examples/template/template.yaml
