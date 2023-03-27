@@ -3488,7 +3488,7 @@
     react-helmet "6.1.0"
     react-use "^17.2.4"
 
-"@backstage/plugin-techdocs@^1.6.0":
+"@backstage/plugin-techdocs@^1.5.0":
   version "1.6.0"
   resolved "https://registry.yarnpkg.com/@backstage/plugin-techdocs/-/plugin-techdocs-1.6.0.tgz#b3c40dbab95916fdf9cd77391c40807704fa030e"
   integrity sha512-3qCo2HuXwkxASfP4i7ntOoF1bNLwvvaDuZBF2LUpWpT2anYNeWUy1h/ku7tcJwQSKJ4htZ3HJKqTpIlI0OfHIQ==
@@ -7927,7 +7927,7 @@ anymatch@^3.0.3, anymatch@~3.1.2:
     "@backstage/plugin-search" "^1.1.1"
     "@backstage/plugin-search-react" "^1.5.1"
     "@backstage/plugin-tech-radar" "^0.6.2"
-    "@backstage/plugin-techdocs" "^1.6.0"
+    "@backstage/plugin-techdocs" "^1.5.0"
     "@backstage/plugin-techdocs-module-addons-contrib" "^1.0.11"
     "@backstage/plugin-techdocs-react" "^1.1.4"
     "@backstage/plugin-user-settings" "^0.7.1"
